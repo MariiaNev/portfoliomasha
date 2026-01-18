@@ -1,0 +1,1 @@
+import{_ as t}from"./BXkgKEL4.js";import{_ as e,c as n,a as c,b as s,o as a}from"./wTH9sP0d.js";import"./DedOCkLf.js";import"./CbrPrhIi.js";import"./DDlvirwQ.js";import"./BTp_X9_1.js";const _={};function m(l,o){const r=t;return a(),n("div",null,[o[0]||(o[0]=c("h2",null,"Our Journey",-1)),s(r)])}const B=e(_,[["render",m]]);export{B as default};
